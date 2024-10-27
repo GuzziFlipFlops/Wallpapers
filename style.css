@@ -1,0 +1,19 @@
+h1 {
+    color: rgb(243, 0, 0);
+    text-align: center;
+    font-size: 56px;
+}
+
+body {
+    background-color: black;
+}
+
+.images {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: space-around;
+    border: 222px springgreen;
+
+    
+}
