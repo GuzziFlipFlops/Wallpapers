@@ -4,7 +4,10 @@ h1 {
     font-size: 56px;
 }
 
-
+p {
+    color: white;
+    text-align: center;
+}
 
 .images {
     display: flex;
