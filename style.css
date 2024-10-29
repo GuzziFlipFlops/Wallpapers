@@ -9,6 +9,10 @@ p {
     text-align: center;
 }
 
+body {
+    background: black;
+}
+
 .images {
     display: flex;
     flex-direction: column;
